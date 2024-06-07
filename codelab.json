@@ -3,19 +3,19 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-06-14T02:46:49Z",
-  "id": "c349.github.io",
+  "updated": "2024-06-07T07:35:30Z",
+  "id": "c349",
   "duration": 0,
-  "title": "C349 - Video Sharing",
+  "title": "C349 - Activity Videos",
   "authors": "TAN KOK CHENG",
-  "summary": "C349 - iPad Programming Student Works",
-  "source": "1YY8UD1uGh61mDppRSs4vPk7vjZFxKkSV6Ja7DIIOx7o",
+  "summary": "C349 - iPad Programming",
+  "source": "1XSeQjBBjnsIFKRzcozg6052C9mzQnfrqlBRsHO5uCNk",
   "theme": "web",
   "status": [
     "published"
   ],
   "category": [
-    "Web"
+    "web"
   ],
   "tags": [
     "cds17",
@@ -34,7 +34,7 @@
     "typtwd17",
     "web"
   ],
-  "feedback": "https://c349.github.io/",
+  "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSf_4zL_7i5f7mFlQjlgC3gvN_0664HO4gdd8xPfyJhGP0AAow/viewform",
   "ga": "UA-151922485-1",
-  "url": "c349.github.io"
+  "url": "c349"
 }
